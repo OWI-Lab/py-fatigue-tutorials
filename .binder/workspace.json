@@ -1,0 +1,84 @@
+{
+    "data": {
+        "layout-restorer:data": {
+            "main": {
+                "dock": {
+                    "type": "split-area",
+                    "orientation": "horizontal",
+                    "sizes": [
+                        0.5,
+                        0.5
+                    ],
+                    "children": [
+                        {
+                            "type": "tab-area",
+                            "currentIndex": 0,
+                            "widgets": [
+                                "notebook:notebooks/0.1.0 - PD.Documentation.Noob.ipynb",
+                                "notebook:notebooks/1.0.0 - AM.General.Usage.ipynb"
+                            ]
+                        },
+                        {
+                            "type": "tab-area",
+                            "currentIndex": 0,
+                            "widgets": [
+                                "help-doc:https://owi-lab.github.io/py_fatigue/"
+                            ]
+                        }
+                    ]
+                },
+                "current": "help-doc:https://owi-lab.github.io/py_fatigue/"
+            },
+            "down": {
+                "size": 0,
+                "widgets": []
+            },
+            "left": {
+                "collapsed": false,
+                "current": "filebrowser",
+                "widgets": [
+                    "filebrowser",
+                    "running-sessions",
+                    "@jupyterlab/toc:plugin",
+                    "extensionmanager.main-view"
+                ]
+            },
+            "right": {
+                "collapsed": true,
+                "widgets": [
+                    "jp-property-inspector",
+                    "debugger-sidebar"
+                ]
+            },
+            "relativeSizes": [
+                0.15193704600484262,
+                0.8480629539951574,
+                0
+            ]
+        },
+        "file-browser-filebrowser:cwd": {
+            "path": "notebooks"
+        },
+        "notebook:notebooks/0.1.0 - PD.Documentation.Noob.ipynb": {
+            "data": {
+                "path": "notebooks/0.1.0 - PD.Documentation.Noob.ipynb",
+                "factory": "Notebook"
+            }
+        },
+        "notebook:notebooks/1.0.0 - AM.General.Usage.ipynb": {
+            "data": {
+                "path": "notebooks/1.0.0 - AM.General.Usage.ipynb",
+                "factory": "Notebook"
+            }
+        },
+        "help-doc:https://owi-lab.github.io/py_fatigue/": {
+            "data": {
+                "url": "https://owi-lab.github.io/py_fatigue/",
+                "text": "Py-fatigue documentation"
+            }
+        }
+    },
+    "metadata": {
+        "id": "default"
+    }
+}
