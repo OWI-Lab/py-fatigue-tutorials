@@ -1,4 +1,4 @@
-py-fatigue>=2.0.1
+py-fatigue>=2.0.3
 python-dotenv
 rich
 jsbeautifier
